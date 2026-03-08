@@ -11,12 +11,6 @@ body {
     0 0 8px #00f2ff,
     0 0 15px #ff00ff;
 }
-@media(max-width:600px)
-body{
-   bacground-position:center top;
-  bacground-attachment:scroll
-}
-
 h1{
   font-size:2rem;
 }
@@ -86,5 +80,6 @@ button {
   margin-top: 10px;
   display: inline-block;
 }
+
 
 
