@@ -1,2 +1,2 @@
 # fun-page
-"An interactive digital playground featuring math tools, games, and stylish radium-themed animations "
+"Welcome to the Fun Page, a vibrant digital playground designed to blend interactive logic with high-energy design. This project features a custom 'radium' aesthetic—using electric blue and hot pink gradients—to create a visually striking environment for users to explore. Whether you're challenging yourself with the 'Hit the Leaf' game, testing the 'Mirror Typing' logic, or using the integrated math tools, this site is built to showcase the power of interactive CSS and JavaScript in a fun, experimental way."
