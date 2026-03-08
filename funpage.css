@@ -1,0 +1,77 @@
+body {
+  background: url('fun image.jpg')no-repeat center 0.1px fixed;
+  background-size: cover;
+  margin: 10px;
+  padding: 0;
+  font-weight: 100;
+  color: #fff;
+  text-shadow:
+    0 0 2px #ffffffb6,
+    0 0 8px #00f2ff,
+    0 0 15px #ff00ff;
+}
+.first,.sec{
+  font-family: 'Orbitron',sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+.hit,.makee,.ty,.math,.findd,.tap{
+  font-family: 'Montserrat',sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+   font-family: 'Orbitron', sans-serif;
+}
+nav {
+  height: 1px;
+  width: 60px;
+  background:linear-gradient(90deg,#ff00ff, #00f2ff);
+  padding-top: 30px;
+  transition: 1s;
+  font-size: 19px;
+  border-radius: 45px 0 45px 0;
+}
+.widx {
+  width: 100%;
+}
+#add {
+  border-radius: 50px;
+}
+button {
+  border-radius: 50px;
+}
+#one,
+#two,
+#ni,
+#ra,
+#inn,
+#mi {
+  border-radius: 15px 0px 15px 0;
+  border-color: rgb(104, 230, 1);
+  border-style: solid;
+  padding: 3px;
+}
+.scedule {
+  margin-left: 50px;
+  margin-top: 10px;
+  display: inline-block;
+}
+.mirror {
+  margin-left: 65%;
+  margin-top: 10px;
+  display: inline-block;
+}
+.arithmetic {
+  margin-left: 50px;
+  margin-top: 10px;
+  display: inline-block;
+}
+.ran {
+  margin-left: 64%;
+  margin-top: 10px;
+  display: inline-block;
+}
+.name {
+  margin-left: 50px;
+  margin-top: 10px;
+  display: inline-block;
+}
